@@ -2,8 +2,6 @@
 
 ###### Green Package is simple and little Aplication Where you can add lists init and it will be stored in localstorage.
 
-###### other developers
-
 ## Technologies
 
 Javascript,Typescript, Html5, Css3, Vite js
